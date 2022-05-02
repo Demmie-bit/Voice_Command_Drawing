@@ -1,0 +1,27 @@
+body
+{
+	text-align: center;
+    background-color:#F4EEE1 ;
+}
+span
+{
+	font-size: 18px;
+	color: #EBCFC4;
+}
+canvas{
+	background: rgb(255, 255, 255);
+	border-radius: 20px;
+    border-width: 10px;
+    border-style: solid;
+}
+h1, h2, h3, h4, p{
+    color: #ddb895 ;
+    font-family: 'Comfortaa', cursive;
+}
+button{
+    background-color: #ddb895;
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
